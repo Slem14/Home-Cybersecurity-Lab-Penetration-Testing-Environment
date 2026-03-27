@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0a1070-6d10-4b10-9fed-b2b48de36deb" name="Changes" comment="" />
+    <list default="true" id="ba0a1070-6d10-4b10-9fed-b2b48de36deb" name="Changes" comment="Initial Repo structure">
+      <change afterPath="$PROJECT_DIR$/notes/lessons-learned.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exploitation/metasploit.md" beforeDir="false" afterPath="$PROJECT_DIR$/exploitation/metasploit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-setup/achitectures.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-setup/achitectures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-setup/installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-setup/installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reconnaissance/nmap-scans.md" beforeDir="false" afterPath="$PROJECT_DIR$/reconnaissance/nmap-scans.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporting/pentest-report.md" beforeDir="false" afterPath="$PROJECT_DIR$/reporting/pentest-report.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Slem14"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Slem14/Home-Cybersecurity-Lab-Penetration-Testing-Environment.git",
+    "accountId": "22dff500-63d5-41fe-9945-8add53358828"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3BXR6fjU2o7DQUEoRoloodDKnRt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +46,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -33,7 +55,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -46,6 +67,19 @@
       <updated>1774633257267</updated>
       <workItem from="1774633258119" duration="20000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Repo structure">
+      <option name="closed" value="true" />
+      <created>1774633587625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774633587625</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Repo structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Repo structure" />
   </component>
 </project>
